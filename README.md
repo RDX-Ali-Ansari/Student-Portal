@@ -32,7 +32,7 @@ This is a simple University Management System written in C++ that allows for han
 
 1. **Clone or Download the repository**:
     ```bash
-    git clone https://github.com/your-username/university-management-system.git
+    git clone https://github.com/your-username/University-Management-System.git
     ```
 
 2. **Compile the program**:
